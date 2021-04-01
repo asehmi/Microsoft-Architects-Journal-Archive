@@ -3,7 +3,7 @@
 
 # JOURNAL - The Microsoft Architects Journal
 
-When I created **JOURNAL** - _The Microsoft Architects Journal_ way back in 2003, we had no idea that it would have the success it achieved. At the end of its 7 year run it had a readership in excess of 100 thousand! Occasionally, I hear from ex-colleagues, friends and people in my professional network that its greatly missed and, above all, they ask "Where can I find back copies!?"
+When I created **JOURNAL** - _The Microsoft Architects Journal_ way back in 2003, we had no idea that it would have the success it achieved. At the end of its 7 year run it had a readership in excess of 100 thousand! Occasionally, I hear from ex-colleagues, friends and people in my professional network that it's greatly missed and, above all, they ask "Where can I find back copies!?"
 
 I found my archive of PDFs and decided to make them available to all for posterity. I wish those of you who come across this journal for the first time, could have read the hard copy -- it would have been so much more pleasureable than a PDF. A lot of attention and care was paid to the identity and articles quality of JOURNAL.
 
